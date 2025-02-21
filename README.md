@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nosa Rahmanda
+# 🚀 Nosa Rahmanda
 
 **`Mobile App Craftsman (Flutter & Web3)`**
 
