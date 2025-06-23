@@ -2,7 +2,7 @@
 
 **`Mobile App Craftsman (Flutter & Web3)`**
 
-I am a Dart and Flutter Developer from Indonesia.. I specialize in building high-performance, user-friendly mobile-based applications that solve real-world problems. Apart from mobile app development, I am also interested in blockchain and Web3 technologies. I am always eager to learn, innovate, and collaborate on interesting projects.
+I am a Dart and Flutter Developer from Indonesia. I specialize in building high-performance, user-friendly mobile-based applications that solve real-world problems. Apart from mobile app development, I am also interested in blockchain and Web3 technologies. I am always eager to learn, innovate, and collaborate on interesting projects.
 
 ---
 
